@@ -95,6 +95,29 @@ public class Testing
 		q.add(quest8);
 		q.add(quest8);
 		q.add(quest9);
+		q.add(quest10);
+		q.add(quest11);
+		q.add(quest12);
+		q.add(quest13);
+		q.add(quest14);
+		q.add(quest15);
+		q.add(quest16);
+		q.add(quest17);
+		q.add(quest18);
+		q.add(quest19);
+		q.add(quest20);
+		q.add(quest21);
+		q.add(quest22);
+		q.add(quest23);
+		q.add(quest24);
+		q.add(quest25);
+		q.add(quest26);
+		q.add(quest27);
+		q.add(quest28);
+		q.add(quest29);
+		q.add(quest30);
+		
+		
 		
 		//the list of answers for the question
 		answers Answers1 = new answers(1, "Grading all day");
